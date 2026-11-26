@@ -3,13 +3,18 @@
     <string name="im_parked_here">I\'m parked here</string>
     <string name="your_car">Your car</string>
     <string name="parked_confirmation">Parked! We\'ll remember this spot.</string>
+    <string name="parked_confirmation_accuracy">Parked! Pin saved — accurate to about %1$d m.</string>
+    <string name="waiting_for_gps">Getting a more precise fix…</string>
     <string name="location_unavailable">Couldn\'t get your location. Make sure location is turned on and try again.</string>
     <string name="location_rationale_title">Location permission needed</string>
     <string name="location_rationale_message">Parkhere needs your location to show the map around you and to drop the pin where you parked. Your location is only used on this device.</string>
     <string name="location_permission_denied">Location permission denied. You can still see the map, but we can\'t find your car without it.</string>
     <string name="location_permission_settings_title">Location permission turned off</string>
     <string name="location_permission_settings_message">Location permission is off. Open the app settings and allow location access so Parkhere can pin your parking spot.</string>
+    <string name="precise_location_title">Precise location needed</string>
+    <string name="precise_location_message">Parkhere only has approximate location, which can be off by a kilometre or more. Open Settings → Permissions → Location and choose “Precise” so the pin lands on your car.</string>
     <string name="open_settings">Open settings</string>
     <string name="not_now">Not now</string>
     <string name="ok">OK</string>
+    <string name="map_attribution">© Esri, HERE, Garmin, © OpenStreetMap contributors</string>
 </resources>

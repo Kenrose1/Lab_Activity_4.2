@@ -1,8 +1,0 @@
-<resources>
-    <!--
-    Paste your Google Maps API key below. Get one at:
-    https://console.cloud.google.com/google/maps-apis/credentials
-    (Enable "Maps SDK for Android" for the project first.)
-    -->
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDngKqmUKZPPQSbeYiozTQkL-3K_h3qemA</string>
-</resources>
