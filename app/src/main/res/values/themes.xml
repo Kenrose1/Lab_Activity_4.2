@@ -3,5 +3,8 @@
 
     <style name="Theme.Parkhere" parent="android:Theme.Material.Light.NoActionBar" />
 
-    <style name="Theme.Parkhere.Maps" parent="Theme.Material3.DayNight.NoActionBar" />
+    <style name="Theme.Parkhere.Maps" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
 </resources>

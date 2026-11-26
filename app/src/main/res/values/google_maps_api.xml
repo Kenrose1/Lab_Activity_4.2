@@ -4,5 +4,5 @@
     https://console.cloud.google.com/google/maps-apis/credentials
     (Enable "Maps SDK for Android" for the project first.)
     -->
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_API_KEY_HERE</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDngKqmUKZPPQSbeYiozTQkL-3K_h3qemA</string>
 </resources>
